@@ -1,0 +1,4 @@
+node_modules/
+ipl_sim.db
+.vscode/
+*.log
